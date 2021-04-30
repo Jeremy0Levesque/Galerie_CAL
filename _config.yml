@@ -2,7 +2,7 @@
 title:               Galerie Curé-Antoine-Labelle
 tagline:             'la maison de vos projets préférés'
 description:         ''
-url:                 https://jeremy0levesque.github.io
+url:                 https://artsmulti.github.io
 baseurl:             '/galerie_cal/'
 paginate:            5
 permalink:           pretty
