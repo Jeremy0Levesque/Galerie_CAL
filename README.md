@@ -5,8 +5,8 @@ Bienvenue sur la galerie de projet des élèves de la concentration Arts-Platiqu
 # Utilisation
 
 Pour rajouté une image, il suffit d'exporter le fichier jpg avec le nom du projet d'élève dans le fichier approprié. Par exemple, si vous voulez poster une photo d'un élève de secondaire trois, vous la metteriez dans projet/photo3.
-![exemple1](https://example.com/bild.jpg)
-Pour les vidéos et les animations, le processus est diffrent. Il faut editer le fichier markdown respectif et l'ajouté dans la list (entre <li> et </li>). Ces fichiers markdown se trouve sur la première page  
+![exemple1](https://i.imgur.com/JtfpnaQ.png)
+Pour les vidéos et les animations, le processus est diffrent. Il faut editer le fichier markdown respectif et l'ajouté dans la liste (entre les deux li).
 ![exemple2](https://example.com/bild.jpg)
 
 # Liens Utile Pour l'Instalation
