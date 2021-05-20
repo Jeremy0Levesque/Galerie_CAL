@@ -27,7 +27,11 @@ iframe {
   height: 100%;
 }
 
- 
+@media screen and (max-width: 375px) {
+  .column {
+    width: 100%;
+  }
+}
 
 
 
