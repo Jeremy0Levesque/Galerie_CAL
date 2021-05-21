@@ -8,7 +8,7 @@ Utilisation
 
 Pour rajouté une image, il suffit d'exporter le fichier jpg avec le nom du projet d'élève dans le fichier approprié. Par exemple, si vous voulez poster une photo d'un élève de secondaire trois, vous la metteriez dans projet/photo3.
 ![exemple1](https://i.imgur.com/JtfpnaQ.png)
-Pour les vidéos et les animations, le processus est diffrent. Il faut editer le fichier markdown manuellement (des exemples à copier coller se trouve dans le code).
+Pour les vidéos et les animations, le processus est diffrent. Il faut modifier le fichier markdown manuellement (des exemples à copier coller se trouve dans le code).
 ![exemple2](https://i.imgur.com/KE854Kk.png)
 
 Liens Utile Pour l'Instalation
