@@ -11,7 +11,8 @@ Pour rajouté une image, il suffit d'exporter le fichier jpg avec le nom du proj
 Pour les vidéos et les animations, le processus est diffrent. Il faut modifier le fichier markdown manuellement (des exemples à copier coller se trouve dans le code).
 ![exemple2](https://i.imgur.com/KE854Kk.png)
 
-Liens Utile Pour l'Instalation
+
+Liens Utiles Pour l'Instalation
 ------------------------------
 
 Ce site est basé sur le thème Jekyll [Lanyon](https://github.com/poole/lanyon) et utilise [GitHub Pages](https://pages.github.com/). 
